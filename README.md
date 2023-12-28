@@ -8,6 +8,7 @@ A simple Advent Calendar application with a graphical user interface (GUI) built
 - [Features](#features)
 - [Usage](#usage)
 - [Tasks](#tasks)
+- [Copyright](#copyright)
 
 ## Description
 
@@ -48,4 +49,15 @@ Example of the "Kalendarz Adwentowy.txt" file:
 3. Watch a classic holiday movie.
 4. Write a letter to Santa.
 ... (add more tasks)
+
+## Copyright
+Obraz autorstwa <a href="https://pl.freepik.com/darmowe-wektory/recznie-rysowane-tla-bozego-narodzenia_19852029.htm#page=2&query=boze%20narodzenie%20tapety&position=3&from_view=keyword&track=ais&uuid=fa3b6e24-49a7-4296-9a5b-d84dfb6e875b">Freepik</a>
+
+
+
+<a href="https://www.flaticon.com/free-icons/christmas" title="christmas icons">Christmas icons created by justicon - Flaticon</a>
+
+Details:
+
+https://www.flaticon.com/free-icon/christmas-tree_2299172?term=christmas&page=1&position=2&origin=tag&related_id=2299172
 
